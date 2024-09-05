@@ -1,0 +1,19 @@
+table#gera {
+    border-top: 1px solid rgb(155, 151, 151);
+    border-bottom: 1px solid #000000;
+    border-left: 1px solid rgb(155, 151, 151);
+    border-right: 1px solid #000000;
+    
+}
+table#gera th,
+table#gera td
+ {
+    border-top: 1px solid black;
+    border-bottom: 1px solid rgb(155, 151, 151);
+    border-left: 1px solid black;
+    border-right: 1px solid rgb(155, 151, 151) ;
+    
+}
+td#gel{
+    background-color: #FFFF25;
+}
